@@ -45,3 +45,16 @@ fields:
   default: grid_item
   config:
     required: false
+- name: grid_items
+  type: field_group_list
+  fields:
+  - name: include_grid_item
+    type: include
+    config: {}
+    template: grid_item
+    label: Grid Item
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Grid Items
