@@ -40,6 +40,7 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
+    grid_items: []
   - type: grid_item
     template: grid_item
     title: Blog
@@ -57,6 +58,7 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
+    grid_items: []
   - type: grid_item
     template: grid_item
     title: Style Guide
@@ -75,6 +77,7 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
+    grid_items: []
   title: ''
   subtitle: ''
 - template: section_grid
@@ -91,6 +94,7 @@ sections:
     content: ''
     actions: []
     type: ''
+    grid_items: []
   - title: tjss t sljlf
     title_url: ''
     image: ''
@@ -98,6 +102,23 @@ sections:
     content: ''
     actions: []
     type: ''
+    grid_items:
+    - title: Thsi is sub table
+      title_url: ''
+      image: ''
+      image_alt: ''
+      content: ''
+      actions: []
+      type: ''
+      grid_items: []
+    - title: this is sub table
+      title_url: ''
+      image: ''
+      image_alt: ''
+      content: ''
+      actions: []
+      type: ''
+      grid_items: []
 - type: section_content
   template: section_content
   title: A Section With An Image
@@ -169,6 +190,7 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
+    grid_items: []
   - type: grid_item
     template: grid_item
     title: Showcase
@@ -187,6 +209,7 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
+    grid_items: []
 - type: section_cta
   template: section_cta
   title: The Title of The Call to Action Block
