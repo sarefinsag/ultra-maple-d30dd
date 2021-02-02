@@ -104,7 +104,7 @@ sections:
     type: ''
     grid_items:
     - title: Thsi is sub table
-      title_url: ''
+      title_url: "/sub"
       image: ''
       image_alt: ''
       content: ''
