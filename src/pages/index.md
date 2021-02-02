@@ -78,12 +78,26 @@ sections:
   title: ''
   subtitle: ''
 - template: section_grid
-  col_number: three
+  col_number: two
   type: section_grid
-  title: ''
-  section_id: ''
+  title: Blog Grid
+  section_id: blog-grid
   subtitle: ''
-  grid_items: []
+  grid_items:
+  - title: this is
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: tjss t sljlf
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
 - type: section_content
   template: section_content
   title: A Section With An Image
